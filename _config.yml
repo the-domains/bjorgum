@@ -1,3 +1,4 @@
+layout_spectrum: 0.5203485921956599
 typography_spectrum: 0.9639320999849588
 color:
   brandStrength: 0.76900195912458
@@ -10,6 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 0.5203485921956599
 name: bjorgum
-title: the beat goes on...
